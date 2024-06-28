@@ -20,6 +20,13 @@ Olá, meu nome é Antonio, estou em transição para a área de tecnologia. Esto
   <img src="https://camo.githubusercontent.com/39a0ba882cef748a1d5c650759efaca4da7db0dca607d5a5d97eb0515c3738c9/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323432392f504e472f3531322f6769746875625f6c6f676f5f69636f6e5f3134373238352e706e67" alt="Antonio-GitHub" height="30" width="32"/>
 </div>
 
+## Soft Skills:
+Boa comunicação e trabalho em equipe.
+Pensamento lógico e adaptativo.
+Foco em buscar soluções simples.
+Gestão de tempo.
+Foco no cliente.
+
 ## Conecte-se comigo:
 <div>
   <a href="https://www.linkedin.com/in/antonio-rui-885b60220/" target="_blank">
