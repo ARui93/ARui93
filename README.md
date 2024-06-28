@@ -21,11 +21,11 @@ Olá, meu nome é Antonio, estou em transição para a área de tecnologia. Esto
 </div>
 
 ## Soft Skills:
-Boa comunicação e trabalho em equipe.
-Pensamento lógico e adaptativo.
-Foco em buscar soluções simples.
-Gestão de tempo.
-Foco no cliente.
+* Boa comunicação e trabalho em equipe.
+* Pensamento lógico e adaptativo.
+* Foco em buscar soluções simples.
+* Gestão de tempo.
+* Foco no cliente.
 
 ## Conecte-se comigo:
 <div>
