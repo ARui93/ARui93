@@ -26,6 +26,9 @@ Olá, meu nome é Antonio, estou em transição para a área de tecnologia. Esto
 * Foco em buscar soluções simples.
 * Gestão de tempo.
 * Foco no cliente.
+* Resolução de problemas.
+* Proatividade.
+* Adaptabilidade.
 
 ## Conecte-se comigo:
 <div>
@@ -34,43 +37,3 @@ Olá, meu nome é Antonio, estou em transição para a área de tecnologia. Esto
   </a>
 </div>
 
-
-## Meu Plano de Estudo
-
-```mermaid
-flowchart TD
-  A[Plano de Estudo] --> B[Estudar]
-  B --> C[Backend]
-
-  subgraph Backend
-    C --> D[Python]
-    D --> E[Protocolo HTTP]
-    E --> F[Banco de Dados]
-    F --> G[APIs REST]
-    G --> H[Framework]
-    H --> I[Docker]
-    I --> J[Cloud Platform]
-  end
-
-  subgraph Banco de Dados
-    F --> K[MongoDB]
-    F --> L[MySQL]
-  end
-
-  subgraph API REST
-    G --> M[Linguagem que Aprendeu]
-  end
-
-  subgraph Framework
-    H --> N[Linguagem Escolhida]
-  end
-
-  subgraph Cloud Platform
-    J --> O[AWS]
-    J --> P[Azure]
-  end
-
-  M --> H
-  N --> I
-  I --> Q[AWS/Azure]
-  Q --> R[Portfólio]
