@@ -45,7 +45,7 @@ Olá, meu nome é Antonio, estou em transição para a área de tecnologia. Esto
 
 **QA Engineer em formação | Automação de Testes | Python**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rui-885b60220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-vieira-97586639b?)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARui93)
 
 </div>
@@ -130,13 +130,13 @@ Teste automatizado de login com **Cypress** no sistema OrangeHRM Live. Primeiro 
 
 Estou aberto a oportunidades de **estágio ou emprego júnior** em QA. Se você tem uma vaga ou quer trocar uma ideia sobre tecnologia, me chama!
 
-[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rui-885b60220/)
+[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-vieira-97586639b?)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=80&section=footer" />
+<<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
 </div>
 
